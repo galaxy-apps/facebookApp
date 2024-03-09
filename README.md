@@ -10,5 +10,5 @@ hi we are in class
 ---
 
 ---
-Hi im Allen
+Hi I'm Allen
 ---
