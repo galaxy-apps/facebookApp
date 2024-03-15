@@ -17,6 +17,15 @@ hi we are in class
 Hi I'm Allen
 ---
 
+- List of collaborators
+  - AlNjamfa
+  - dankirwa
+  - GilbertN
+  - ncharles1
+  - Njicha1
+  - opylope
+  - Randy1449
+
 
 
 
