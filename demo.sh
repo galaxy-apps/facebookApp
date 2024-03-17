@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "yet another branch"
+echo "we are doing ranching in git"
