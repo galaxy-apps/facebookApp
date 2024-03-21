@@ -1,1 +1,3 @@
-# This is Engr Chi 
+# This is Engr Chi
+---
+# this git is awesome 
